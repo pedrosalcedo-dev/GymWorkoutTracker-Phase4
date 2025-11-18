@@ -1,0 +1,21 @@
+id,date,exerciseName,muscleGroup,sets,reps,weightLbs,durationMin,rpe,notes
+1,2025-10-11,Barbell Squat,Legs,5,5,275,45,8,heavy day
+2,2025-10-11,Bench Press,Chest,5,5,205,40,7,
+3,2025-10-11,Deadlift,Back,3,3,315,30,9,PR triple
+4,2025-10-11,Overhead Press,Shoulders,3,8,95,20,7,
+5,2025-10-11,Pull Up,Back,4,10,1,18,8,bodyweight
+6,2025-10-11,Barbell Row,Back,4,6,165,25,7,
+7,2025-10-11,Dumbbell Bench,Chest,4,10,60,28,8,
+8,2025-10-11,Front Squat,Legs,4,4,225,35,9,
+9,2025-10-11,Incline Bench,Chest,3,8,155,22,7,
+10,2025-10-11,Lat Pulldown,Back,4,12,140,20,6,
+11,2025-10-11,Leg Press,Legs,4,10,400,25,7,
+12,2025-10-11,Seated OHP,Shoulders,3,10,105,20,8,
+13,2025-10-11,RDL,Back,3,6,245,25,8,hamstrings
+14,2025-10-11,Cable Row,Back,4,12,130,18,6,
+15,2025-10-11,Dips,Chest,3,12,1,12,7,bodyweight
+16,2025-10-11,Arm Curl,Biceps,3,12,35,12,6,
+17,2025-10-11,Skullcrusher,Triceps,3,10,65,14,7,
+18,2025-10-11,Hip Thrust,Glutes,4,8,225,20,8,
+19,2025-10-11,Calf Raise,Legs,4,15,150,10,6,
+20,2025-10-11,Deadlift,Back,1,1,355,10,10,max single
